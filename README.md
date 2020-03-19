@@ -10,4 +10,4 @@ cd SOCV2
 chmod +x installer.sh                      
 ./installer.sh                        
 # RUN
-python3 social.py
+python3 social2.py
