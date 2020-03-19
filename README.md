@@ -2,7 +2,7 @@
 # Python 3 is requirement                               
 # NEW:                                        
 1) Code optimization 
-2) New 2 tyoes of bruteforce
+2) New 2 types of bruteforce
 3) Bug fix
 # INSTALL
 git clone https://github.com/zertmark/SOCV2.git                                                     
